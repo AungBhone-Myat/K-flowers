@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('FLOWERS TO MAKE U FEEL BETTER').split('')
+    const titles = ('FLOWERS TO MAKE UR DAY').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
